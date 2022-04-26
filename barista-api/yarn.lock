@@ -4682,7 +4682,12 @@ mimic-response@^1.0.0, mimic-response@^1.0.1:
   dependencies:
     brace-expansion "^1.1.7"
 
-minimist@1.2.5, minimist@^1.1.1, minimist@^1.2.0, minimist@^1.2.5:
+minimist@1.2.6:
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.6.tgz#8637a5b759ea0d6e98702cfb3a9283323c93af44"
+  integrity sha512-Jsjnk4bw3YJqYzbdyBiNsPWHPfO++UGG749Cxs6peCu5Xg4nrena6OVxOYxrQTqww0Jmwt+Ref8rggumkTLz9Q==
+
+minimist@^1.1.1, minimist@^1.2.0, minimist@^1.2.5:
   version "1.2.5"
   resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
   integrity sha1-Z9ZgFLZqaoqqDAg8X9WN9OTpdgI=
@@ -6902,7 +6907,7 @@ tunnel-agent@^0.6.0:
 tunnel@0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/tunnel/-/tunnel-0.0.6.tgz#72f1314b34a5b192db012324df2cc587ca47f92c"
-  integrity sha1-cvExSzSlsZLbASMk3yzFh8pH+Sw=
+  integrity sha512-1h/Lnq9yajKY2PEbBadPXj3VxsDDu844OnaAo52UVmIzIvwwtBPIuNvkjuzBlTWpfJyUbG3ez0KSBibQkj4ojg==
 
 tweetnacl@^0.14.3, tweetnacl@~0.14.0:
   version "0.14.5"
@@ -7226,11 +7231,11 @@ webidl-conversions@^6.1.0:
   integrity sha1-kRG01+qArNQPUnDWZmIa+ni2lRQ=
 
 wget-improved@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/wget-improved/-/wget-improved-3.2.1.tgz#b71cbca9a9196f46f85c7c3ea7e61aa6e957d90a"
-  integrity sha1-txy8qakZb0b4XHw+p+YapulX2Qo=
+  version "3.3.1"
+  resolved "https://registry.yarnpkg.com/wget-improved/-/wget-improved-3.3.1.tgz#4ca99dc80db0ae388e99f4137f8deadd358630bc"
+  integrity sha512-OF22MM9ImbOcuB5ZV3ye0q1udaYeTP/V6LOfjNyGCNNC7bGB219ljZv6Wk5mPogeigJJ6CqheLScv17AFbsdGA==
   dependencies:
-    minimist "1.2.5"
+    minimist "1.2.6"
     tunnel "0.0.6"
 
 whatwg-encoding@^1.0.5:
