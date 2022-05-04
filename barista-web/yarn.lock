@@ -175,9 +175,7 @@
     parse5 "^5.0.0"
 
 "@angular/cli@~11.2.13":
-  version "11.2.13"
-  resolved "https://registry.yarnpkg.com/@angular/cli/-/cli-11.2.13.tgz#10534aa2d16e438cf4bb0e912ab28a1eb67dafe1"
-  integrity sha1-EFNKotFuQ4z0uw6RKrKKHrZ9r+E=
+  version: "11.2.14"
   dependencies:
     "@angular-devkit/architect" "0.1102.13"
     "@angular-devkit/core" "11.2.13"
