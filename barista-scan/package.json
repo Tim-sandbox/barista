@@ -81,7 +81,7 @@
     "@types/string-similarity": "^4.0.0",
     "@types/tmp": "^0.2.0",
     "@types/xml2js": "^0.4.8",
-    "axios": "^0.21.1",
+    "axios": "^0.26.0",
     "bcrypt": "^5.0.1",
     "bull": "^3.22.5",
     "chalk": "^4.1.1",
